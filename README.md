@@ -1,6 +1,9 @@
 Scrum Power Tools for Visual Studio
 ===================================
 
+VS2015 Package Download:
+[Download](https://github.com/artiso-solutions/ScrumPowerTools/tree/master/Package/ScrumPowerToolsVS15.vsix?raw=true) to download the setup.
+
 Remarks
 -------
 
